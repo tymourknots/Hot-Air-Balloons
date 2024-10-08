@@ -1,12 +1,12 @@
-**HOT AIR BALLOON** 
+HOT AIR BALLOON
 
-**Lessons Learned**
+Lessons Learned
 
 I applied key principles of Object-Oriented Programming (OOP) to build a dynamic interactive Java GUI using AWT and Swing. I focused on creating well-structured classes using inheritance and interfaces, while incorporating Composite and Observer design patterns. Implementing MovingObject and Ascension interfaces allowed me to ensure consistent behavior across different graphical components like hot air balloons and stick figures.
 
 I learned to leverage the Composite pattern by combining multiple shapes (e.g., Ellipse2D and Rectangle2D) into a single GeneralPath, making it easier to treat complex graphics as one object. I also implemented the Observer pattern using JSliders and ChangeListeners to dynamically adjust the state of various elements, enabling smooth, interactive behavior. Additionally, using Timer for animations provided valuable experience in updating positions and redrawing components in real-time.
 
-**Skills Gained**
+Skills Gained
 
 Object-Oriented Design & Implementation: Developed modular, maintainable code using interfaces, polymorphism, and composition.
 
@@ -18,7 +18,7 @@ Implementing Design Patterns: Applied Composite and Observer patterns to manage 
 
 GUI Component Management: Organized layouts using BorderLayout and incorporated interactive elements like sliders and buttons.
 
-**Problems Solved**
+Problems Solved
 
 Combining Multiple Shapes into a Single Composite Object: I successfully used GeneralPath to aggregate different shapes into a cohesive unit, making drawing and manipulation simpler.
 
