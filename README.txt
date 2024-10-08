@@ -1,5 +1,9 @@
 HOT AIR BALLOON
 
+Overview
+
+This project is an interactive Java GUI application that simulates a "hot air balloon ascension" using the AWT and Swing libraries. It features multiple animated hot air balloons of varying sizes rising across the screen, along with stick figure observers that jump in excitement. Users can control the ascent speed of the balloons and the jump height of the stick figures through sliders. The project utilizes the Composite pattern to combine graphical shapes and the Observer pattern to handle user interactions and real-time updates, resulting in a dynamic and responsive visual display.
+
 Lessons Learned
 
 I applied key principles of Object-Oriented Programming (OOP) to build a dynamic interactive Java GUI using AWT and Swing. I focused on creating well-structured classes using inheritance and interfaces, while incorporating Composite and Observer design patterns. Implementing MovingObject and Ascension interfaces allowed me to ensure consistent behavior across different graphical components like hot air balloons and stick figures.
