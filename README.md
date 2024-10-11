@@ -27,6 +27,7 @@ Built custom graphics and animations using Java’s Graphics2D and GeneralPath.
 Applied Composite and Observer patterns to manage complex object hierarchies and ensure responsiveness.
 
 ### 5. GUI Component Management: 
+
 Organized layouts using BorderLayout and incorporated interactive elements like sliders and buttons.
 
 ## Problems Solved
